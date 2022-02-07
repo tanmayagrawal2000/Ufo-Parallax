@@ -1,3 +1,6 @@
-﻿# Web-Parallax
-This is just a simple webpage parallax with space theme
-You can edit text your text in line 27 of index.html file
+# Ufo parallax  ![](https://img.shields.io/badge/-HTML-red) ![](https://img.shields.io/badge/-CSS-orange) ![](https://img.shields.io/badge/-Parallax-green) 
+
+A sample webpage having parallax effect.
+
+## Output
+
